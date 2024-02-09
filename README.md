@@ -1,3 +1,6 @@
 # QR-Code-Generator
+By using HTML, CSS & Javascript 
+API : api.qrserver.com
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-v7gpyy)
+## Live
+https://qr-code-generate-cb.netlify.app/
